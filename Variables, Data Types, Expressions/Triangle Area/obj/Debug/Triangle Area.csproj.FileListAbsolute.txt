@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\ConsoleApp1\Triangle Area\bin\Debug\Triangle Area.exe.config
+C:\Users\Raya\source\repos\ConsoleApp1\Triangle Area\bin\Debug\Triangle Area.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Triangle Area\bin\Debug\Triangle Area.pdb
+C:\Users\Raya\source\repos\ConsoleApp1\Triangle Area\obj\Debug\Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\ConsoleApp1\Triangle Area\obj\Debug\Triangle Area.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Triangle Area\obj\Debug\Triangle Area.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\ConsoleApp1\Real Number Types\bin\Debug\Real Number Types.exe.config
+C:\Users\Raya\source\repos\ConsoleApp1\Real Number Types\bin\Debug\Real Number Types.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Real Number Types\bin\Debug\Real Number Types.pdb
+C:\Users\Raya\source\repos\ConsoleApp1\Real Number Types\obj\Debug\Real Number Types.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\ConsoleApp1\Real Number Types\obj\Debug\Real Number Types.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Real Number Types\obj\Debug\Real Number Types.pdb

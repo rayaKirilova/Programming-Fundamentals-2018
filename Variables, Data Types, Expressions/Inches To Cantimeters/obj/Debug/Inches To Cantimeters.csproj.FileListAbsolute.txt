@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\ConsoleApp1\Inches To Cantimeters\bin\Debug\Inches To Cantimeters.exe.config
+C:\Users\Raya\source\repos\ConsoleApp1\Inches To Cantimeters\bin\Debug\Inches To Cantimeters.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Inches To Cantimeters\bin\Debug\Inches To Cantimeters.pdb
+C:\Users\Raya\source\repos\ConsoleApp1\Inches To Cantimeters\obj\Debug\Inches To Cantimeters.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\ConsoleApp1\Inches To Cantimeters\obj\Debug\Inches To Cantimeters.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Inches To Cantimeters\obj\Debug\Inches To Cantimeters.pdb

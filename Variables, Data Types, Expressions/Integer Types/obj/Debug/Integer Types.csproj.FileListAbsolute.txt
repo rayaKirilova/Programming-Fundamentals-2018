@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\ConsoleApp1\Integer Types\bin\Debug\Integer Types.exe.config
+C:\Users\Raya\source\repos\ConsoleApp1\Integer Types\bin\Debug\Integer Types.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Integer Types\bin\Debug\Integer Types.pdb
+C:\Users\Raya\source\repos\ConsoleApp1\Integer Types\obj\Debug\Integer Types.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\ConsoleApp1\Integer Types\obj\Debug\Integer Types.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Integer Types\obj\Debug\Integer Types.pdb

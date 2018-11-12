@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\ConsoleApp1\Square Area\bin\Debug\Square Area.exe.config
+C:\Users\Raya\source\repos\ConsoleApp1\Square Area\bin\Debug\Square Area.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Square Area\bin\Debug\Square Area.pdb
+C:\Users\Raya\source\repos\ConsoleApp1\Square Area\obj\Debug\Square Area.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\ConsoleApp1\Square Area\obj\Debug\Square Area.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Square Area\obj\Debug\Square Area.pdb
