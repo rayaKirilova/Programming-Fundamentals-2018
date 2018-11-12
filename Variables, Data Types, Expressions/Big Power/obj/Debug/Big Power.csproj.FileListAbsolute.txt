@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\ConsoleApp1\Big Power\bin\Debug\Big Power.exe.config
+C:\Users\Raya\source\repos\ConsoleApp1\Big Power\bin\Debug\Big Power.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Big Power\bin\Debug\Big Power.pdb
+C:\Users\Raya\source\repos\ConsoleApp1\Big Power\obj\Debug\Big Power.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\ConsoleApp1\Big Power\obj\Debug\Big Power.exe
+C:\Users\Raya\source\repos\ConsoleApp1\Big Power\obj\Debug\Big Power.pdb
+C:\Users\Raya\source\repos\ConsoleApp1\Big Power\obj\Debug\Big Power.csprojResolveAssemblyReference.cache

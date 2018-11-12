@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\ConsoleApp1\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe.config
+C:\Users\Raya\source\repos\ConsoleApp1\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe
+C:\Users\Raya\source\repos\ConsoleApp1\2D Rectangle Area\bin\Debug\2D Rectangle Area.pdb
+C:\Users\Raya\source\repos\ConsoleApp1\2D Rectangle Area\obj\Debug\2D Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\ConsoleApp1\2D Rectangle Area\obj\Debug\2D Rectangle Area.exe
+C:\Users\Raya\source\repos\ConsoleApp1\2D Rectangle Area\obj\Debug\2D Rectangle Area.pdb
