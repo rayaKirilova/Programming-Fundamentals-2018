@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Metric Convertor\bin\Debug\Metric Convertor.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Metric Convertor\bin\Debug\Metric Convertor.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Metric Convertor\bin\Debug\Metric Convertor.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Metric Convertor\obj\Debug\Metric Convertor.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Metric Convertor\obj\Debug\Metric Convertor.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Metric Convertor\obj\Debug\Metric Convertor.pdb

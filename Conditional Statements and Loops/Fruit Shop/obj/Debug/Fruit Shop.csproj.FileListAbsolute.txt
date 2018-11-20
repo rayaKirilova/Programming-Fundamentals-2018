@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit Shop\bin\Debug\Fruit Shop.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit Shop\bin\Debug\Fruit Shop.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit Shop\bin\Debug\Fruit Shop.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit Shop\obj\Debug\Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit Shop\obj\Debug\Fruit Shop.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit Shop\obj\Debug\Fruit Shop.pdb
