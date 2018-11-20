@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.pdb

@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent Result\bin\Debug\Excellent Result.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent Result\bin\Debug\Excellent Result.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent Result\bin\Debug\Excellent Result.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent Result\obj\Debug\Excellent Result.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent Result\obj\Debug\Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent Result\obj\Debug\Excellent Result.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent Result\obj\Debug\Excellent Result.pdb

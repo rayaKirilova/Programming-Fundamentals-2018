@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent or Not\bin\Debug\Excellent or Not.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent or Not\bin\Debug\Excellent or Not.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent or Not\bin\Debug\Excellent or Not.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent or Not\obj\Debug\Excellent or Not.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent or Not\obj\Debug\Excellent or Not.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Excellent or Not\obj\Debug\Excellent or Not.pdb

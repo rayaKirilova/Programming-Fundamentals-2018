@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Cinema\bin\Debug\Cinema.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Cinema\obj\Debug\Cinema.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Cinema\obj\Debug\Cinema.pdb
