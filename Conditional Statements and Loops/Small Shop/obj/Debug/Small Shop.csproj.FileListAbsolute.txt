@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Small Shop\bin\Debug\Small Shop.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Small Shop\bin\Debug\Small Shop.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Small Shop\bin\Debug\Small Shop.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Small Shop\obj\Debug\Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Small Shop\obj\Debug\Small Shop.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Small Shop\obj\Debug\Small Shop.pdb

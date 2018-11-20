@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Trade Comissions\bin\Debug\Trade Comissions.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Trade Comissions\bin\Debug\Trade Comissions.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Trade Comissions\bin\Debug\Trade Comissions.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Trade Comissions\obj\Debug\Trade Comissions.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Trade Comissions\obj\Debug\Trade Comissions.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Trade Comissions\obj\Debug\Trade Comissions.pdb

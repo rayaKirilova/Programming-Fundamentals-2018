@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.pdb
