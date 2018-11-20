@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to Text\bin\Debug\Numbers to Text.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to Text\bin\Debug\Numbers to Text.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to Text\bin\Debug\Numbers to Text.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to Text\obj\Debug\Numbers to Text.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to Text\obj\Debug\Numbers to Text.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to Text\obj\Debug\Numbers to Text.pdb

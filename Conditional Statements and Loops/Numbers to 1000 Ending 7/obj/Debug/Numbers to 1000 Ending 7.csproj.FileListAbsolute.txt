@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to 1000 Ending 7\bin\Debug\Numbers to 1000 Ending 7.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to 1000 Ending 7\bin\Debug\Numbers to 1000 Ending 7.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to 1000 Ending 7\bin\Debug\Numbers to 1000 Ending 7.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to 1000 Ending 7\obj\Debug\Numbers to 1000 Ending 7.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to 1000 Ending 7\obj\Debug\Numbers to 1000 Ending 7.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops\Numbers to 1000 Ending 7\obj\Debug\Numbers to 1000 Ending 7.pdb
