@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Arrayas and Lists\Arrayas and Lists\bin\Debug\Arrayas and Lists.exe.config
+C:\Users\Raya\source\repos\Arrayas and Lists\Arrayas and Lists\bin\Debug\Arrayas and Lists.exe
+C:\Users\Raya\source\repos\Arrayas and Lists\Arrayas and Lists\bin\Debug\Arrayas and Lists.pdb
+C:\Users\Raya\source\repos\Arrayas and Lists\Arrayas and Lists\obj\Debug\Days of week.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Arrayas and Lists\Arrayas and Lists\obj\Debug\Days of week.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrayas and Lists\Arrayas and Lists\obj\Debug\Arrayas and Lists.exe
+C:\Users\Raya\source\repos\Arrayas and Lists\Arrayas and Lists\obj\Debug\Arrayas and Lists.pdb

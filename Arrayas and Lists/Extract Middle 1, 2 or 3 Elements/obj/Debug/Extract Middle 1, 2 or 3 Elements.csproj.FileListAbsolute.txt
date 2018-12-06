@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Arrayas and Lists\Extract Middle 1, 2 or 3 Elements\bin\Debug\Extract Middle 1, 2 or 3 Elements.exe.config
+C:\Users\Raya\source\repos\Arrayas and Lists\Extract Middle 1, 2 or 3 Elements\bin\Debug\Extract Middle 1, 2 or 3 Elements.exe
+C:\Users\Raya\source\repos\Arrayas and Lists\Extract Middle 1, 2 or 3 Elements\bin\Debug\Extract Middle 1, 2 or 3 Elements.pdb
+C:\Users\Raya\source\repos\Arrayas and Lists\Extract Middle 1, 2 or 3 Elements\obj\Debug\Extract Middle 1, 2 or 3 Elements.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Arrayas and Lists\Extract Middle 1, 2 or 3 Elements\obj\Debug\Extract Middle 1, 2 or 3 Elements.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrayas and Lists\Extract Middle 1, 2 or 3 Elements\obj\Debug\Extract Middle 1, 2 or 3 Elements.exe
+C:\Users\Raya\source\repos\Arrayas and Lists\Extract Middle 1, 2 or 3 Elements\obj\Debug\Extract Middle 1, 2 or 3 Elements.pdb

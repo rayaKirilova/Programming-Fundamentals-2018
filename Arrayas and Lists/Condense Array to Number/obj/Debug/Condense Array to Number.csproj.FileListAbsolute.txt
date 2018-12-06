@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrayas and Lists\Condense Array to Number\bin\Debug\Condense Array to Number.exe.config
+C:\Users\Raya\source\repos\Arrayas and Lists\Condense Array to Number\bin\Debug\Condense Array to Number.exe
+C:\Users\Raya\source\repos\Arrayas and Lists\Condense Array to Number\bin\Debug\Condense Array to Number.pdb
+C:\Users\Raya\source\repos\Arrayas and Lists\Condense Array to Number\obj\Debug\Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrayas and Lists\Condense Array to Number\obj\Debug\Condense Array to Number.exe
+C:\Users\Raya\source\repos\Arrayas and Lists\Condense Array to Number\obj\Debug\Condense Array to Number.pdb
