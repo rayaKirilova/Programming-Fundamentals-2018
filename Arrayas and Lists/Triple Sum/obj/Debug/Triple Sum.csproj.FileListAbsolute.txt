@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Arrayas and Lists\Triple Sum\bin\Debug\Triple Sum.exe.config
+C:\Users\Raya\source\repos\Arrayas and Lists\Triple Sum\bin\Debug\Triple Sum.exe
+C:\Users\Raya\source\repos\Arrayas and Lists\Triple Sum\bin\Debug\Triple Sum.pdb
+C:\Users\Raya\source\repos\Arrayas and Lists\Triple Sum\obj\Debug\Triple Sum.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Arrayas and Lists\Triple Sum\obj\Debug\Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrayas and Lists\Triple Sum\obj\Debug\Triple Sum.exe
+C:\Users\Raya\source\repos\Arrayas and Lists\Triple Sum\obj\Debug\Triple Sum.pdb
