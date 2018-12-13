@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrayas and Lists\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe.config
+C:\Users\Raya\source\repos\Arrayas and Lists\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\Raya\source\repos\Arrayas and Lists\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.pdb
+C:\Users\Raya\source\repos\Arrayas and Lists\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrayas and Lists\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\Raya\source\repos\Arrayas and Lists\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.pdb
