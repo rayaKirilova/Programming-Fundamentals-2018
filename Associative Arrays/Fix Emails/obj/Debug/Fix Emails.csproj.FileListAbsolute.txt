@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Associative Arrays\Fix Emails\bin\Debug\Fix Emails.exe.config
+C:\Users\Raya\source\repos\Associative Arrays\Fix Emails\bin\Debug\Fix Emails.exe
+C:\Users\Raya\source\repos\Associative Arrays\Fix Emails\bin\Debug\Fix Emails.pdb
+C:\Users\Raya\source\repos\Associative Arrays\Fix Emails\obj\Debug\Fix Emails.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Associative Arrays\Fix Emails\obj\Debug\Fix Emails.exe
+C:\Users\Raya\source\repos\Associative Arrays\Fix Emails\obj\Debug\Fix Emails.pdb

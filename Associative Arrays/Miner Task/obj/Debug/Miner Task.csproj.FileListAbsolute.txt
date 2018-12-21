@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Associative Arrays\Miner Task\bin\Debug\Miner Task.exe.config
+C:\Users\Raya\source\repos\Associative Arrays\Miner Task\bin\Debug\Miner Task.exe
+C:\Users\Raya\source\repos\Associative Arrays\Miner Task\bin\Debug\Miner Task.pdb
+C:\Users\Raya\source\repos\Associative Arrays\Miner Task\obj\Debug\Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Associative Arrays\Miner Task\obj\Debug\Miner Task.exe
+C:\Users\Raya\source\repos\Associative Arrays\Miner Task\obj\Debug\Miner Task.pdb
