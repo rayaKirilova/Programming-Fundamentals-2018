@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Master Numbers\bin\Debug\Master Numbers.exe.config
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Master Numbers\bin\Debug\Master Numbers.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Master Numbers\bin\Debug\Master Numbers.pdb
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Master Numbers\obj\Debug\Master Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Master Numbers\obj\Debug\Master Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Master Numbers\obj\Debug\Master Numbers.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Master Numbers\obj\Debug\Master Numbers.pdb

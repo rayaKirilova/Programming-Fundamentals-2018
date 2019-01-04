@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Palindrome Numbers\bin\Debug\Palindrome Numbers.exe.config
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Palindrome Numbers\bin\Debug\Palindrome Numbers.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Palindrome Numbers\bin\Debug\Palindrome Numbers.pdb
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Palindrome Numbers\obj\Debug\Palindrome Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Palindrome Numbers\obj\Debug\Palindrome Numbers.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Palindrome Numbers\obj\Debug\Palindrome Numbers.pdb
