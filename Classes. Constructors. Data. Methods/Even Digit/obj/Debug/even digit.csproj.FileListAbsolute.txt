@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\even digit\bin\Debug\even digit.exe.config
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\even digit\bin\Debug\even digit.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\even digit\bin\Debug\even digit.pdb
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\even digit\obj\Debug\even digit.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\even digit\obj\Debug\even digit.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\even digit\obj\Debug\even digit.pdb
