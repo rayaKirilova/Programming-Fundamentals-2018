@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Sales Report\bin\Debug\Sales Report.exe.config
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Sales Report\bin\Debug\Sales Report.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Sales Report\bin\Debug\Sales Report.pdb
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Sales Report\obj\Debug\Sales Report.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Sales Report\obj\Debug\Sales Report.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Sales Report\obj\Debug\Sales Report.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Sales Report\obj\Debug\Sales Report.pdb

@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Average Grade\bin\Debug\Average Grade.exe.config
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Average Grade\bin\Debug\Average Grade.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Average Grade\bin\Debug\Average Grade.pdb
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Average Grade\obj\Debug\Average Grades.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Average Grade\obj\Debug\Average Grades.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Average Grade\obj\Debug\Average Grade.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Average Grade\obj\Debug\Average Grade.pdb

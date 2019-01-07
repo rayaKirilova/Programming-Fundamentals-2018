@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Distance Between Two Point. Second\bin\Debug\Distance_Between_Two_Point.Second.exe.config
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Distance Between Two Point. Second\bin\Debug\Distance_Between_Two_Point.Second.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Distance Between Two Point. Second\bin\Debug\Distance_Between_Two_Point.Second.pdb
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Distance Between Two Point. Second\obj\Debug\Distance Between Two Point. Second.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Distance Between Two Point. Second\obj\Debug\Distance_Between_Two_Point.Second.exe
+C:\Users\Raya\source\repos\Classes. Constructors. Data. Methods\Distance Between Two Point. Second\obj\Debug\Distance_Between_Two_Point.Second.pdb
